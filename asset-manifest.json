@@ -1,13 +1,13 @@
 {
-  "main.css": "/Charitha_portfolio/static/css/main.675004b7.chunk.css",
-  "main.js": "/Charitha_portfolio/static/js/main.246469a7.chunk.js",
-  "main.js.map": "/Charitha_portfolio/static/js/main.246469a7.chunk.js.map",
-  "runtime~main.js": "/Charitha_portfolio/static/js/runtime~main.c169e6f3.js",
-  "runtime~main.js.map": "/Charitha_portfolio/static/js/runtime~main.c169e6f3.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/Charitha_portfolio/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/Charitha_portfolio/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/Charitha_portfolio/index.html",
-  "precache-manifest.5b295f15b76425bba3a746e4e7e3358f.js": "/Charitha_portfolio/precache-manifest.5b295f15b76425bba3a746e4e7e3358f.js",
-  "service-worker.js": "/Charitha_portfolio/service-worker.js",
-  "static/css/main.675004b7.chunk.css.map": "/Charitha_portfolio/static/css/main.675004b7.chunk.css.map"
+  "main.css": "/portfolio/static/css/main.675004b7.chunk.css",
+  "main.js": "/portfolio/static/js/main.232adae5.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.232adae5.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.0fad4c0f.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.0fad4c0f.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/portfolio/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/portfolio/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.f8e1fd6ba59323481855e424bf228726.js": "/portfolio/precache-manifest.f8e1fd6ba59323481855e424bf228726.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/main.675004b7.chunk.css.map": "/portfolio/static/css/main.675004b7.chunk.css.map"
 }
